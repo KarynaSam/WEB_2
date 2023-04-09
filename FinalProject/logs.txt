@@ -56,3 +56,6 @@
 [13:19:47] Addressbook has been saved!
 [06:09:20] Addressbook has been loaded!
 [14:53:51] Addressbook has been loaded!
+[14:55:46] Addressbook has been loaded!
+[14:57:38] Contact Karina has been added.
+[14:57:38] Addressbook has been saved!
